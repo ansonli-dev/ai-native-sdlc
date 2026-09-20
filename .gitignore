@@ -1,0 +1,12 @@
+# Local experiments, caches, and raw execution logs
+/.local/
+
+# IDE and macOS metadata
+/.idea/
+.DS_Store
+
+# Local environment secrets
+.env
+.env.*
+!.env.example
+!.env.sample
